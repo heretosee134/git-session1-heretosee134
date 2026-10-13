@@ -1,7 +1,7 @@
 # Git Session 1
 
 **Name:** Kenza
-**GitHub Username:** Kenzadssin
+**GitHub Username:** heretosee134
 
 A small web project used to practice Git and GitHub.
 
