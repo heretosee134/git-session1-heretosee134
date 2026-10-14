@@ -14,6 +14,6 @@ git status
 
 [Pro Git Book](https://git-scm.com/book)
 
-[Project banner](assets/project-banner.svg)
+ ![Project banner](assets/project-banner.svg)
 
 Edited directly on GitHub
